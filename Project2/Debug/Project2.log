@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\levim\source\repos\Project2\Project2\MyForm.h(68,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\levim\source\repos\Project2\Project2\MyForm.h(189,6): warning C4101: 'num': unreferenced local variable
+C:\Users\levim\source\repos\Project2\Project2\MyForm.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> C:\Users\levim\source\repos\Project2\Debug\Project2.exe
